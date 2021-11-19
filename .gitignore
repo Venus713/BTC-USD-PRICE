@@ -1,0 +1,6 @@
+__pycache__/
+.vscode
+venv
+.env
+celerybeat-schedule
+.env.docker
