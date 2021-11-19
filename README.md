@@ -84,7 +84,7 @@
 
 ### Docker Env configuration
 
-    - Copy/Past `.env` from `.env.docker` file.
+    - Copy/Past `.env.docker.example` from `.env.docker` file.
 
         ```bash
         cp .env.example .env.docker
